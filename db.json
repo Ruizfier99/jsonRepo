@@ -38,22 +38,7 @@
     "descripcion": "Darling Harbour es un barrio marítimo peatonal lleno de tiendas, restaurantes, museos, exposiciones y lugares de ocio.",
     "puntuacion": "5 Estrellas"
 
-  },
-    {
-    "nombrePoi": "Circular Quay",
-    "nombreCategoria": "Arquitectura",
-    "imagen" : "https://c8.alamy.com/compes/2g88p5d/circular-quay-un-puerto-en-sydney-nueva-gales-del-sur-australia-2g88p5d.jpg",
-    "descripcion": "Construido por los convictos en Sydney Cove, la animada Circular Quay es ahora el hogar de la terminal principal de ferrys de la ciudad.",
-    "puntuacion": "5 Estrellas"
-
-  },
-    {
-    "nombrePoi": "Circular Quay",
-    "nombreCategoria": "Arquitectura",
-    "imagen" : "https://c8.alamy.com/compes/2g88p5d/circular-quay-un-puerto-en-sydney-nueva-gales-del-sur-australia-2g88p5d.jpg",
-    "descripcion": "Construido por los convictos en Sydney Cove, la animada Circular Quay es ahora el hogar de la terminal principal de ferrys de la ciudad.",
-    "puntuacion": "5 Estrellas"
-
   }
+    
 ]
 }
