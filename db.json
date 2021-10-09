@@ -6,7 +6,9 @@
     "nombreCategoria": "Arte y Ocio",
     "imagen" : "https://media-cdn.tripadvisor.com/media/photo-s/17/3b/95/61/photo2jpg.jpg",
     "descripcion": "Uno de los grandes iconos del mundo, la Ópera de Sydney, es un patrimonio de la humanidad y la atracción estrella que brilla en el puerto",
-    "puntuacion": "5 Estrellas"
+    "puntuacion": "5 Estrellas",
+    "latitud": "-33.856708649220145",
+    "longitud":"151.2152913327098"
   },
   {
     "nombrePoi": "Puente del Puerto de Sydney",
