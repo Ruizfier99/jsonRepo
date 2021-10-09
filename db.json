@@ -38,6 +38,24 @@
     "descripcion": "Darling Harbour es un barrio marítimo peatonal lleno de tiendas, restaurantes, museos, exposiciones y lugares de ocio.",
     "puntuacion": "5 Estrellas"
 
+  },
+    
+  {
+    "nombrePoi": "Puerto Darling",
+    "nombreCategoria": "Arquitectura",
+    "imagen" : "https://javitour.com/wp-content/uploads/2016/05/Atracciones-Tur%C3%ADsticas-de-Sydney-5_opt.jpg",
+    "descripcion": "Darling Harbour es un barrio marítimo peatonal lleno de tiendas, restaurantes, museos, exposiciones y lugares de ocio.",
+    "puntuacion": "5 Estrellas"
+
+  },
+    
+  {
+    "nombrePoi": "Puerto Darling",
+    "nombreCategoria": "Arquitectura",
+    "imagen" : "https://javitour.com/wp-content/uploads/2016/05/Atracciones-Tur%C3%ADsticas-de-Sydney-5_opt.jpg",
+    "descripcion": "Darling Harbour es un barrio marítimo peatonal lleno de tiendas, restaurantes, museos, exposiciones y lugares de ocio.",
+    "puntuacion": "5 Estrellas"
+
   }
     
 ]
